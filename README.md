@@ -1,1 +1,1 @@
-# Amazon ECS PHP Simple Demo Appso
+# Amazon ECS PHP Simple Demo Apps
